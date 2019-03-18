@@ -17,7 +17,9 @@
  ## Развертывание
 Для использования, необходим PC под nix с доступом в интернет и установленным git пакетом.
  ## Написан с использованием:
- * [Sublime] (https://www.sublimetext.com/) - текстовый редактор * [git] (https://git-scm.com/) - управление версиями * [markdown] (https://daringfireball.net/projects/markdown//) - язык разметки
+ * [Sublime] (https://www.sublimetext.com/) - текстовый редактор 
+ * [git] (https://git-scm.com/) - управление версиями 
+ * [markdown] (https://daringfireball.net/projects/markdown//) - язык разметки
  ## Содействие
  Для помощи в выходе новых версий и идей о новом функционале, пишите на почту mamai2010@gmail.com
   ## Управление версиями
