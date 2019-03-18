@@ -25,7 +25,7 @@
   ## Управление версиями
  Мы используем [GitLab](https://about.gitlab.com/) для управления версиями. Доступные версии см. в [тегах](https://gitlab.rebrainme.com/mamai2010/rebrain-devops-task-checkout/tags).
  ## Авторы
- ** momai **
+ * momai
  Основано на работе пользователя [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
  ## Лицензия
  Этот проект лицензирован [GNU]( https://www.gnu.org/licenses/gpl-3.0.ru.html).
