@@ -25,10 +25,9 @@
   ## Управление версиями
  Мы используем [GitLab](https://about.gitlab.com/) для управления версиями. Доступные версии см. в [тегах](https://gitlab.rebrainme.com/mamai2010/rebrain-devops-task-checkout/tags).
  ## Авторы
- * ** momai ** - * Начальная работа * - [PurpleBooth](https://github.com/PurpleBooth)
- Основна на работе пользователя [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+ ** momai **
+ Основано на работе пользователя [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
  ## Лицензия
- https://www.gnu.org/licenses/gpl-3.0.ru.html
- Этот проект лицензирован GNU - подробности см. В файле [LICENSE.md](LICENSE.md).
+ Этот проект лицензирован [GNU]( https://www.gnu.org/licenses/gpl-3.0.ru.html).
  ## Благодарности
  * Сказать спасибо можно написав об этом на почту mamai2010@gmail.com
