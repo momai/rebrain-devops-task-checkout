@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rebrain Basics GIT-4
  Это пример оформления файла README на gitlab rebrainme.
  ## Начало
@@ -21,7 +21,7 @@
  ## Содействие
  Для помощи в выходе новых версий и идей о новом функционале, пишите на почту mamai2010@gmail.com
   ## Управление версиями
- Мы используем [GitLab ] (https://about.gitlab.com/) для управления версиями. Доступные версии см. в [тегах] (https://gitlab.rebrainme.com/mamai2010/rebrain-devops-task-checkout/tags).
+ Мы используем [GitLab] (https://about.gitlab.com/) для управления версиями. Доступные версии см. в [тегах] (https://gitlab.rebrainme.com/mamai2010/rebrain-devops-task-checkout/tags).
  ## Авторы
  * ** momai ** - * Начальная работа * - [PurpleBooth] (https://github.com/PurpleBooth)
  Основна на работе пользователя [PurpleBooth] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
@@ -30,7 +30,3 @@
  Этот проект лицензирован GNU - подробности см. В файле [LICENSE.md] (LICENSE.md).
  ## Благодарности
  * Сказать спасибо можно написав об этом на почту mamai2010@gmail.com
- 
-=======
-README
->>>>>>> 2a49ce6cce87e77a12245d06525458ba78bd90d5
